@@ -163,6 +163,10 @@ footer {
     overflow: hidden;
 }
 
+header .dropdown-menu a {
+    font-size: 300%;
+}
+
 .dropdown-menu ul {
     list-style: none;
     padding: 0;
